@@ -6,4 +6,6 @@
 
  *12/26/2025 added LTSpice LT3477 adj Led Driver with XHP708 LED simulation
  
- *12/28/2025 added LTSpice S-82B2A/B 2S BMS IC Over Current Simulation
+ *12/28/2025 added LTSpice S-82B2A/B 2S BMS IC Over Current Protection Simulation
+
+ *12/28/2025 added LTSpice S-82B2A/B 2S BMS IC Low Voltage Protection Simulation
